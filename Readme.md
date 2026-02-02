@@ -1,8 +1,10 @@
 # Fundamental invariants of improper symplectic reflection groups
 
+By [Ulrich Thiel](https://ulthiel.com/math)
+
 In the classification of symplectic reflection groups by Cohen, the class of "improper" groups is formed by taking an ordinary complex reflection group $W \subset \mathrm{GL}(\mathfrak{h})$ and considering the induced action on $\mathfrak{h} \oplus \mathfrak{h}^*$. The matrix for this action corresponding to $w \in W$ is the block diagonal matrix with blocks $w$ and $(w^t)^{-1}$, where $w^t$ denotes the transpose.
 
-I'm interested in the invariant theory of such groups. By $\mathbb{C} \lbrack \mathfrak{h} \oplus \mathfrak{h}^* \rbrack$ we denote the coordinate ring of the variety $\mathfrak{h} \oplus \mathfrak{h}^* $, i.e. the symmetric algebra $\mathrm{Sym}(\mathfrak{h}^* \oplus \mathfrak{h})$ of the "dual" of $\mathfrak{h} \oplus \mathfrak{h}^*$. If you choose a basis $\{ y_1,\ldots,y_n \}$ of $\mathfrak{h}$ with dual basis $\{ x_1,\ldots,x_n \}$, then $\mathbb{C} \lbrack \mathfrak{h} \oplus \mathfrak{h}^* \rbrack = \mathbb{C} \lbrack x_1,\ldots,x_n,y_1,\ldots,y_n \rbrack$ is the polynomial ring in the $x_i$ and $y_i$. This ring has several gradings:
+I'm interested in the invariant theory of such groups. By $\mathbb{C} \lbrack \mathfrak{h} \oplus \mathfrak{h}^* \rbrack$ we denote the coordinate ring of the variety $\mathfrak{h} \oplus \mathfrak{h}^* $, i.e. the symmetric algebra $\mathrm{Sym}(\mathfrak{h}^* \oplus \mathfrak{h})$ of the "dual" of $\mathfrak{h} \oplus \mathfrak{h}^* $. If you choose a basis $\{ y_1,\ldots,y_n \}$ of $\mathfrak{h}$ with dual basis $\{ x_1,\ldots,x_n \}$, then $\mathbb{C} \lbrack \mathfrak{h} \oplus \mathfrak{h}^* \rbrack = \mathbb{C} \lbrack x_1,\ldots,x_n,y_1,\ldots,y_n \rbrack$ is the polynomial ring in the $x_i$ and $y_i$. This ring has several gradings:
 
 - the usual $\mathbb{N}$-grading of polynomials;
 - an $\mathbb{N} \times \mathbb{N}$-grading with $\deg x_i = (1,0)$ and $\deg y_i = (0,1)$;
