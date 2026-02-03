@@ -56,4 +56,20 @@ Below, I'm summarizing what I could compute for exceptional complex reflection g
 | G28   | 40   | 2, 2, 2, 6, 6, 6, 6, 6, 6, 6, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12                          | (0,2), (1,1), (2,0), (0,6), (1,5), (2,4), (3,3), (4,2), (5,1), (6,0), (0,8), (1,7), (2,6), (3,5), (4,4), (4,4), (5,3), (6,2), (7,1), (8,0), (0,12), (1,11), (2,10), (3,9), (3,9), (4,8), (4,8), (5,7), (5,7), (6,6), (6,6), (7,5), (7,5), (8,4), (8,4), (9,3), (9,3), (10,2), (11,1), (12,0)                                         | 6        |
 | G29   | 44   | 2, 4, 4, 6, 8, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12, 12, 12, 12, 12, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 16, 16, 16, 16, 18, 18, 20, 20 | (1,1), (0,4), (4,0), (3,3), (0,8), (2,6), (2,6), (4,4), (6,2), (6,2), (8,0), (1,9), (3,7), (5,5), (5,5), (7,3), (9,1), (0,12), (2,10), (4,8), (4,8), (6,6), (8,4), (8,4), (10,2), (12,0), (1,13), (3,11), (3,11), (5,9), (7,7), (7,7), (9,5), (11,3), (11,3), (13,1), (2,14), (6,10), (10,6), (14,2), (1,17), (17,1), (0,20), (20,0) | 8        |
 
+## References
+
+1. CHAMP: A Cherednik Algebra Magma Package  
+   *LMS J. Comput. Math.* 18 (2015), no. 1, 266–307.  
+   [[DOI](https://doi.org/10.1112/S1461157015000054)] · [[arXiv](https://arxiv.org/abs/1403.6686)] · [[MR](https://mathscinet.ams.org/mathscinet/article?mr=3361642)]
+
+2. Geometry and representation theory associated to symplectic reflection groups  
+   *Oberwolfach Reports*, No. 38/2021 (Workshop "Computational Group Theory"), 2042–2045.  
+   [[DOI](https://doi.org/10.4171/OWR/2021/38)]
+
 ## License
+
+The mathematical datasets in this repository are licensed under
+
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+See LICENSE for details.
