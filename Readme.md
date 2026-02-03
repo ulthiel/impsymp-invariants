@@ -66,6 +66,10 @@ Below, I'm summarizing what I could compute for exceptional complex reflection g
    *Oberwolfach Reports*, No. 38/2021 (Workshop "Computational Group Theory"), 2042–2045.  
    [[DOI](https://doi.org/10.4171/OWR/2021/38)]
 
+## Version
+
+Last modified on July 18, 2022 at 14:02 pm. Moved to Github on February 2-3, 2026.
+
 ## License
 
 The mathematical datasets in this repository are licensed under
